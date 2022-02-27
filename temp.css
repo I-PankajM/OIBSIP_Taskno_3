@@ -1,0 +1,64 @@
+body{
+    background-image: url(1.jpg);
+    background-position:center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+#convert {
+    background-color: #12c2b9;
+  }
+  #convert:hover {
+    background-color: #d3d3d0;
+  }
+
+h1 span {
+      align-items: center;
+      /* color: rgb(71, 21, 21); */
+
+    font-family: sans-serif;
+    color: #0eb7d4bd;
+  }
+  input {
+    display: block;
+    padding: 10px;
+    align-content: center;
+    
+    margin-top: 100px;
+    font-size: 1.5em;
+    color: #f4a55a;
+    font-family:'Times New Roman', Times, serif
+  }
+  ::-webkit-input-placeholder {
+     color: rgb(224, 199, 199);
+     
+  }
+  :-moz-placeholder { 
+     color: #ccc;  
+  }
+  ::-moz-placeholder { 
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #8630309f;
+    margin-top: 100px;
+    size: 0.5rem;
+   
+  }
+  .new{
+    padding: 10px;
+    font-size: 1.2em;
+    color: #8630309f;
+    margin-top: 40px;
+    size: 0.5rem;
+  }
+  button.new:hover{
+      color: rgb(32, 33, 34);
+  }
+  
